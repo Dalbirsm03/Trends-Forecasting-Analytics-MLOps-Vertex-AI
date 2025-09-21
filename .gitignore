@@ -20,7 +20,7 @@ Datasets/
 
 # Logs
 *.log
-
+logs/
 # OS specific
 .DS_Store
 Thumbs.db

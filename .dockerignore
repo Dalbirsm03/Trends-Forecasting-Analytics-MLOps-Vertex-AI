@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Data files (optional: keep if needed inside container)
+# data/
+
+# Logs
+logs/
+*.log
+
+# MLflow runs (optional if mounting volume)
+mlruns/
+
+# Git
+.git/
+.gitignore
+
+# VS Code
+.vscode/
