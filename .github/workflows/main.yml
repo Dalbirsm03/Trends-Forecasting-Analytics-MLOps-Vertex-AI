@@ -29,4 +29,5 @@ jobs:
 
       - name: Run tests
         run: |
+          export PYTHONPATH="${{ github.workspace }}/src:${{ github.workspace }}/logs"
           pytest tests/ --maxfail=1 --disable-warnings -q
