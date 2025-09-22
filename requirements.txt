@@ -1,4 +1,4 @@
-numpy 
+numpy
 pandas 
 scikit-learn 
 matplotlib 
@@ -7,3 +7,6 @@ mlflow
 joblib
 pytest
 xgboost
+statsmodels
+prophet
+pmdarima
