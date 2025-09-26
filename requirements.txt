@@ -8,5 +8,4 @@ joblib
 pytest
 xgboost
 statsmodels
-prophet
-pmdarima
+google-cloud-storage
